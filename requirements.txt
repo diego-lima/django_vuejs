@@ -1,0 +1,8 @@
+notebook
+ipython
+selenium
+beautifulsoup4
+requests
+Django
+djangorestframework
+django-extensions
