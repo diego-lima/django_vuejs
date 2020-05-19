@@ -1,6 +1,6 @@
 # README #
 
-Código fonte desenvolvido durante a aula "Como usar o VueJS com o Django Framework"
+Código fonte desenvolvido durante a aula "Como usar o VueJS com o Django Framework", disponível no [youtube](https://www.youtube.com/watch?v=rxLZg4PqC8M).
 
 ### Como instalar os módulo do NodeJS ###
 
